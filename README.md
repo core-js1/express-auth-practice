@@ -1,5 +1,3 @@
 # express-auth-practice
-Keep in mind this is a backend project, not frontend so I did not prioritize frontend much. That aside, this is my very first backend project.
-
-Anyways as this is a beginner's project, it's pretty much a basic authentication system. Throughout building this project, I learned about password hashing, how to processs
-passwords securely, prevent same user duplicates, routing, query parameters and much more basics of backend development. For the database, I have used SQLLite.
+My very first backend project. The frontend is intentionally made simple as the focus primarily was on the backend. Throughout this project, I learned communication between 
+client and server (HTTP requests/responses), how to secure passwords through hashing and process passwords safely, prevent same username duplicates, query parameters etc. To sum it up, I learned the fundamentals of backend development throughout making this project.
